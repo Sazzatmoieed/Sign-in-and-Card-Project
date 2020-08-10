@@ -1,4 +1,4 @@
 body{
-    background: url(bg.jpg) 50% 80% no-repeat ; 
+    background-image: url(bg.jpg) 50% 80% no-repeat ; 
     background-size: cover;
 }
